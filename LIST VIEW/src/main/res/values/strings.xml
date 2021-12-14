@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ListViewApp</string>
+
+    <string-array name="players">
+        <item>s1mple</item>
+        <item>dev1ce</item>
+        <item>kennyS</item>
+        <item>coldzera</item>
+        <item>ZywOo</item>
+        <item>shox</item>
+        <item>f0rest</item>
+        <item>olofmeister</item>
+        <item>gla1ve</item>
+        <item>dupreeh</item>
+        <item>sh1ro</item>
+        <item>GeT_RiGhT</item>
+        <item>fallen</item>
+        <item>Magisk</item>
+        <item>Xyp3x</item>
+    </string-array>
+</resources>
